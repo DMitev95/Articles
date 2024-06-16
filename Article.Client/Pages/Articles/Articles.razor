@@ -1,0 +1,15 @@
+﻿@layout MainLayout
+<DxGrid Data="Data"
+        KeyFieldName="EmployeeId"
+        EditModelSaving="OnEditModelSaving"
+        DataItemDeleting="OnDataItemDeleting"
+        CustomizeEditModel="OnCustomizeEditModel"
+        EditMode="GridEditMode.EditRow">
+    <Columns>
+        <DxGridCommandColumn />
+        <DxGridDataColumn FieldName="FirstName" />
+        <DxGridDataColumn FieldName="LastName" />
+        <DxGridDataColumn FieldName="Title" />
+        <DxGridDataColumn FieldName="HireDate" />
+    </Columns>
+</DxGrid>
