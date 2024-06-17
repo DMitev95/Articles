@@ -1,7 +1,6 @@
 ﻿using Articles.Api.Models;
 using Articles.Api.Services;
 using Dapper;
-using Microsoft.Data.SqlClient;
 
 namespace Articles.Api.Endpoints
 {
@@ -9,16 +8,21 @@ namespace Articles.Api.Endpoints
     {
         public static void MapArticleEndpoints(this IEndpointRouteBuilder builder)
         {
+            //Grouping the endpoints so we dont repeat "articles/"
             var group = builder.MapGroup("articles");
 
+            //Getting all the articles
             group.MapGet("", async (SqlConnectionFactory sqlConnectionFactory) =>
             {
+                //Creating new conection
                 using var connection = sqlConnectionFactory.Create();
 
+                //Creating sql query
                 const string sql = "SELECT * FROM Article";
 
                 var articles = await connection.QueryAsync<Article>(sql);
 
+                //Returning all the articles
                 return Results.Ok(articles);
             });
 
@@ -32,6 +36,7 @@ namespace Articles.Api.Endpoints
                 """;
 
                 await connection.ExecuteAsync(sql, article);
+
                 return Results.Ok();
             });
 

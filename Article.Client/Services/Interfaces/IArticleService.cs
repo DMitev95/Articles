@@ -1,5 +1,4 @@
 ﻿using Article.Client.Models.Articles;
-using System.Net.Http;
 
 namespace Article.Client.Services.Interfaces
 {

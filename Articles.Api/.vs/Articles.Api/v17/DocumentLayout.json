@@ -3,19 +3,25 @@
   "WorkspaceRootPath": "D:\\GitHub\\Articles\\Articles.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3779851-54AD-4351-80F2-5B78BC21F8C6}|Articles.Api.csproj|d:\\github\\articles\\articles.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D3779851-54AD-4351-80F2-5B78BC21F8C6}|Articles.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4897E23F-298D-4144-AA1D-F7F5BF766951}|..\\Article.Client\\Article.Client.csproj|d:\\github\\articles\\article.client\\pages\\articles\\articles.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3779851-54AD-4351-80F2-5B78BC21F8C6}|Articles.Api.csproj|d:\\github\\articles\\articles.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3779851-54AD-4351-80F2-5B78BC21F8C6}|Articles.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4897E23F-298D-4144-AA1D-F7F5BF766951}|..\\Article.Client\\Article.Client.csproj|d:\\github\\articles\\article.client\\article.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Pages\\Articles\\Articles.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4897E23F-298D-4144-AA1D-F7F5BF766951}|..\\Article.Client\\Article.Client.csproj|d:\\github\\articles\\article.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3779851-54AD-4351-80F2-5B78BC21F8C6}|Articles.Api.csproj|d:\\github\\articles\\articles.api\\endpoints\\articleendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3779851-54AD-4351-80F2-5B78BC21F8C6}|Articles.Api.csproj|solutionrelative:endpoints\\articleendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4897E23F-298D-4144-AA1D-F7F5BF766951}|..\\Article.Client\\Article.Client.csproj|d:\\github\\articles\\article.client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4897E23F-298D-4144-AA1D-F7F5BF766951}|..\\Article.Client\\Article.Client.csproj|d:\\github\\articles\\article.client\\services\\interfaces\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4897E23F-298D-4144-AA1D-F7F5BF766951}|..\\Article.Client\\Article.Client.csproj|d:\\github\\articles\\article.client\\services\\articleclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4897E23F-298D-4144-AA1D-F7F5BF766951}|..\\Article.Client\\Article.Client.csproj|d:\\github\\articles\\article.client\\services\\httpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3779851-54AD-4351-80F2-5B78BC21F8C6}|Articles.Api.csproj|d:\\github\\articles\\articles.api\\services\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -24,6 +30,21 @@
     {
       "AbsoluteMoniker": "D:0:0:{D3779851-54AD-4351-80F2-5B78BC21F8C6}|Articles.Api.csproj|d:\\github\\articles\\articles.api\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3779851-54AD-4351-80F2-5B78BC21F8C6}|Articles.Api.csproj|solutionrelative:models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3779851-54AD-4351-80F2-5B78BC21F8C6}|Articles.Api.csproj|d:\\github\\articles\\articles.api\\endpoints\\articleendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3779851-54AD-4351-80F2-5B78BC21F8C6}|Articles.Api.csproj|solutionrelative:endpoints\\articleendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3779851-54AD-4351-80F2-5B78BC21F8C6}|Articles.Api.csproj|d:\\github\\articles\\articles.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3779851-54AD-4351-80F2-5B78BC21F8C6}|Articles.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3779851-54AD-4351-80F2-5B78BC21F8C6}|Articles.Api.csproj|d:\\github\\articles\\articles.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3779851-54AD-4351-80F2-5B78BC21F8C6}|Articles.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Pages\\Articles\\Articles.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Pages\\Articles\\Articles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -72,7 +93,184 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Article.Client.csproj",
+              "DocumentMoniker": "D:\\GitHub\\Articles\\Article.Client\\Article.Client.csproj",
+              "RelativeDocumentMoniker": "..\\Article.Client\\Article.Client.csproj",
+              "ToolTip": "D:\\GitHub\\Articles\\Article.Client\\Article.Client.csproj",
+              "RelativeToolTip": "..\\Article.Client\\Article.Client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T04:44:22.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\GitHub\\Articles\\Article.Client\\App.razor",
+              "RelativeDocumentMoniker": "..\\Article.Client\\App.razor",
+              "ToolTip": "D:\\GitHub\\Articles\\Article.Client\\App.razor",
+              "RelativeToolTip": "..\\Article.Client\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T04:39:10.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IArticleService.cs",
+              "DocumentMoniker": "D:\\GitHub\\Articles\\Article.Client\\Services\\Interfaces\\IArticleService.cs",
+              "RelativeDocumentMoniker": "..\\Article.Client\\Services\\Interfaces\\IArticleService.cs",
+              "ToolTip": "D:\\GitHub\\Articles\\Article.Client\\Services\\Interfaces\\IArticleService.cs",
+              "RelativeToolTip": "..\\Article.Client\\Services\\Interfaces\\IArticleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:36:17.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArticleClientService.cs",
+              "DocumentMoniker": "D:\\GitHub\\Articles\\Article.Client\\Services\\ArticleClientService.cs",
+              "RelativeDocumentMoniker": "..\\Article.Client\\Services\\ArticleClientService.cs",
+              "ToolTip": "D:\\GitHub\\Articles\\Article.Client\\Services\\ArticleClientService.cs",
+              "RelativeToolTip": "..\\Article.Client\\Services\\ArticleClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:36:04.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HttpClientService.cs",
+              "DocumentMoniker": "D:\\GitHub\\Articles\\Article.Client\\Services\\HttpClientService.cs",
+              "RelativeDocumentMoniker": "..\\Article.Client\\Services\\HttpClientService.cs",
+              "ToolTip": "D:\\GitHub\\Articles\\Article.Client\\Services\\HttpClientService.cs",
+              "RelativeToolTip": "..\\Article.Client\\Services\\HttpClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:35:58.794Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\Articles\\Article.Client\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Article.Client\\Program.cs",
+              "ToolTip": "D:\\GitHub\\Articles\\Article.Client\\Program.cs",
+              "RelativeToolTip": "..\\Article.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:28:15.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetArticlesResponseModel.cs",
+              "DocumentMoniker": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Models\\Articles\\GetArticlesResponseModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Models\\Articles\\GetArticlesResponseModel.cs",
+              "ToolTip": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Models\\Articles\\GetArticlesResponseModel.cs",
+              "RelativeToolTip": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Models\\Articles\\GetArticlesResponseModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:07:14.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArticleEndpoints.cs",
+              "DocumentMoniker": "D:\\GitHub\\Articles\\Articles.Api\\Endpoints\\ArticleEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\ArticleEndpoints.cs",
+              "ToolTip": "D:\\GitHub\\Articles\\Articles.Api\\Endpoints\\ArticleEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\ArticleEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T07:55:04.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Articles.razor",
+              "DocumentMoniker": "D:\\GitHub\\Articles\\Article.Client\\Pages\\Articles\\Articles.razor",
+              "RelativeDocumentMoniker": "..\\Article.Client\\Pages\\Articles\\Articles.razor",
+              "ToolTip": "D:\\GitHub\\Articles\\Article.Client\\Pages\\Articles\\Articles.razor",
+              "RelativeToolTip": "..\\Article.Client\\Pages\\Articles\\Articles.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T04:25:46.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IHttpClientService.cs",
+              "DocumentMoniker": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\Interfaces\\IHttpClientService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\Interfaces\\IHttpClientService.cs",
+              "ToolTip": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\Interfaces\\IHttpClientService.cs",
+              "RelativeToolTip": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\Interfaces\\IHttpClientService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:10:55.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HttpClientService.cs",
+              "DocumentMoniker": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\HttpClientService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\HttpClientService.cs",
+              "ToolTip": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\HttpClientService.cs",
+              "RelativeToolTip": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\HttpClientService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:12:08.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditArticleRequestModel.cs",
+              "DocumentMoniker": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Models\\Articles\\EditArticleRequestModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Models\\Articles\\EditArticleRequestModel.cs",
+              "ToolTip": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Models\\Articles\\EditArticleRequestModel.cs",
+              "RelativeToolTip": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Models\\Articles\\EditArticleRequestModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:08:42.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ArticleClientService.cs",
+              "DocumentMoniker": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\ArticleClientService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\ArticleClientService.cs",
+              "ToolTip": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\ArticleClientService.cs",
+              "RelativeToolTip": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\ArticleClientService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:31:29.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Article.cs",
+              "DocumentMoniker": "D:\\GitHub\\Articles\\Articles.Api\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "Models\\Article.cs",
+              "ToolTip": "D:\\GitHub\\Articles\\Articles.Api\\Models\\Article.cs",
+              "RelativeToolTip": "Models\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T07:35:46.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqlConnectionFactory.cs",
+              "DocumentMoniker": "D:\\GitHub\\Articles\\Articles.Api\\Services\\SqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Services\\SqlConnectionFactory.cs",
+              "ToolTip": "D:\\GitHub\\Articles\\Articles.Api\\Services\\SqlConnectionFactory.cs",
+              "RelativeToolTip": "Services\\SqlConnectionFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T07:59:01.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Articles.razor",
               "DocumentMoniker": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Pages\\Articles\\Articles.razor",
               "RelativeDocumentMoniker": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Pages\\Articles\\Articles.razor",
@@ -83,79 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HttpClientService.cs",
-              "DocumentMoniker": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\HttpClientService.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\HttpClientService.cs",
-              "ToolTip": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\HttpClientService.cs",
-              "RelativeToolTip": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\HttpClientService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAuwEAAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T05:12:08.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IHttpClientService.cs",
-              "DocumentMoniker": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\Interfaces\\IHttpClientService.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\Interfaces\\IHttpClientService.cs",
-              "ToolTip": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\Interfaces\\IHttpClientService.cs",
-              "RelativeToolTip": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\Interfaces\\IHttpClientService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T05:10:55.854Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "GetArticlesResponseModel.cs",
-              "DocumentMoniker": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Models\\Articles\\GetArticlesResponseModel.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Models\\Articles\\GetArticlesResponseModel.cs",
-              "ToolTip": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Models\\Articles\\GetArticlesResponseModel.cs",
-              "RelativeToolTip": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Models\\Articles\\GetArticlesResponseModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T05:07:14.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ArticleEndpoints.cs",
-              "DocumentMoniker": "D:\\GitHub\\Articles\\Articles.Api\\Endpoints\\ArticleEndpoints.cs",
-              "RelativeDocumentMoniker": "Endpoints\\ArticleEndpoints.cs",
-              "ToolTip": "D:\\GitHub\\Articles\\Articles.Api\\Endpoints\\ArticleEndpoints.cs",
-              "RelativeToolTip": "Endpoints\\ArticleEndpoints.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T07:55:04.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EditArticleRequestModel.cs",
-              "DocumentMoniker": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Models\\Articles\\EditArticleRequestModel.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Models\\Articles\\EditArticleRequestModel.cs",
-              "ToolTip": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Models\\Articles\\EditArticleRequestModel.cs",
-              "RelativeToolTip": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Models\\Articles\\EditArticleRequestModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T05:08:42.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ArticleClientService.cs",
-              "DocumentMoniker": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\ArticleClientService.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\ArticleClientService.cs",
-              "ToolTip": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\ArticleClientService.cs",
-              "RelativeToolTip": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\ArticleClientService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T05:31:29.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GitHub\\Articles\\Articles.Api\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -163,12 +289,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T07:26:20.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T07:26:20.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\GitHub\\Articles\\Articles.Api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -176,80 +301,51 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-15T07:33:55.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T07:33:55.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Layout\\MainLayout.razor",
               "ToolTip": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Layout\\MainLayout.razor",
               "RelativeToolTip": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-16T05:28:01.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Articles.cs",
               "DocumentMoniker": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Pages\\Articles\\Articles.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Pages\\Articles\\Articles.cs",
               "ToolTip": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Pages\\Articles\\Articles.cs",
               "RelativeToolTip": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Pages\\Articles\\Articles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T05:29:14.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "IArticleService.cs",
               "DocumentMoniker": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\Interfaces\\IArticleService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\Interfaces\\IArticleService.cs",
               "ToolTip": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\Interfaces\\IArticleService.cs",
               "RelativeToolTip": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Services\\Interfaces\\IArticleService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T05:38:17.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Program.cs",
               "ToolTip": "D:\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Program.cs",
               "RelativeToolTip": "..\\..\\..\\Programing Tasks For Exercise\\Sis Tehnology-task\\Article.Client\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T05:35:05.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SqlConnectionFactory.cs",
-              "DocumentMoniker": "D:\\GitHub\\Articles\\Articles.Api\\Services\\SqlConnectionFactory.cs",
-              "RelativeDocumentMoniker": "Services\\SqlConnectionFactory.cs",
-              "ToolTip": "D:\\GitHub\\Articles\\Articles.Api\\Services\\SqlConnectionFactory.cs",
-              "RelativeToolTip": "Services\\SqlConnectionFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T07:59:01.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Article.cs",
-              "DocumentMoniker": "D:\\GitHub\\Articles\\Articles.Api\\Models\\Article.cs",
-              "RelativeDocumentMoniker": "Models\\Article.cs",
-              "ToolTip": "D:\\GitHub\\Articles\\Articles.Api\\Models\\Article.cs",
-              "RelativeToolTip": "Models\\Article.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T07:35:46.696Z"
             }
           ]
         }
